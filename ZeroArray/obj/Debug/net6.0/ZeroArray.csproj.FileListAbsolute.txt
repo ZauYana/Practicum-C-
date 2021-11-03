@@ -1,0 +1,16 @@
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/bin/Debug/net6.0/ZeroArray
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/bin/Debug/net6.0/ZeroArray.deps.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/bin/Debug/net6.0/ZeroArray.runtimeconfig.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/bin/Debug/net6.0/ZeroArray.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/bin/Debug/net6.0/ref/ZeroArray.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/bin/Debug/net6.0/ZeroArray.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.GlobalUsings.g.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.csproj.AssemblyReference.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.AssemblyInfoInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.AssemblyInfo.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.csproj.CoreCompileInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ref/ZeroArray.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/ZeroArray/obj/Debug/net6.0/ZeroArray.genruntimeconfig.cache

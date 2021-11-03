@@ -1,0 +1,16 @@
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/bin/Debug/net6.0/randomArray
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/bin/Debug/net6.0/randomArray.deps.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/bin/Debug/net6.0/randomArray.runtimeconfig.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/bin/Debug/net6.0/randomArray.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/bin/Debug/net6.0/ref/randomArray.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/bin/Debug/net6.0/randomArray.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.GlobalUsings.g.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.csproj.AssemblyReference.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.AssemblyInfoInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.AssemblyInfo.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.csproj.CoreCompileInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/ref/randomArray.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/randomArray/obj/Debug/net6.0/randomArray.genruntimeconfig.cache

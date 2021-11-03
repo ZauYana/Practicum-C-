@@ -1,0 +1,16 @@
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/bin/Debug/net6.0/MaxOf3Numbers
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/bin/Debug/net6.0/MaxOf3Numbers.deps.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/bin/Debug/net6.0/MaxOf3Numbers.runtimeconfig.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/bin/Debug/net6.0/MaxOf3Numbers.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/bin/Debug/net6.0/ref/MaxOf3Numbers.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/bin/Debug/net6.0/MaxOf3Numbers.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.GlobalUsings.g.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.csproj.AssemblyReference.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.AssemblyInfoInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.AssemblyInfo.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.csproj.CoreCompileInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/ref/MaxOf3Numbers.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/MaxOf3Numbers/obj/Debug/net6.0/MaxOf3Numbers.genruntimeconfig.cache

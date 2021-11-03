@@ -1,0 +1,16 @@
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/bin/Debug/net6.0/perimetr
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/bin/Debug/net6.0/perimetr.deps.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/bin/Debug/net6.0/perimetr.runtimeconfig.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/bin/Debug/net6.0/perimetr.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/bin/Debug/net6.0/ref/perimetr.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/bin/Debug/net6.0/perimetr.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.GlobalUsings.g.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.csproj.AssemblyReference.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.AssemblyInfoInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.AssemblyInfo.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.csproj.CoreCompileInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/ref/perimetr.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/perimetr/obj/Debug/net6.0/perimetr.genruntimeconfig.cache
