@@ -1,0 +1,16 @@
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.GlobalUsings.g.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.csproj.AssemblyReference.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.AssemblyInfoInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.AssemblyInfo.cs
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.csproj.CoreCompileInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/bin/Debug/net6.0/EG1zadacha
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/bin/Debug/net6.0/EG1zadacha.deps.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/bin/Debug/net6.0/EG1zadacha.runtimeconfig.json
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/bin/Debug/net6.0/EG1zadacha.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/bin/Debug/net6.0/ref/EG1zadacha.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/bin/Debug/net6.0/EG1zadacha.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/ref/EG1zadacha.dll
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.pdb
+/Users/yanazaulskaya/Desktop/Practicum2 (C#)/EG1zadacha/obj/Debug/net6.0/EG1zadacha.genruntimeconfig.cache
